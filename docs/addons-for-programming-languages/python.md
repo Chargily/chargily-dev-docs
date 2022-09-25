@@ -2,6 +2,7 @@
 title: Chargily ePay with Python
 sidebar_label: Python
 sidebar_position: 3
+slug: /epay-python
 ---
 
 

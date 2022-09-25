@@ -2,6 +2,7 @@
 title: Chargily ePay with React
 sidebar_label: React
 sidebar_position: 4
+slug: /epay-react-js
 ---
 
 ## Requirements

@@ -2,6 +2,7 @@
 title: Chargily ePay with Flutter
 sidebar_label: Flutter
 sidebar_position: 6
+slug: /epay-flutter
 ---
 
 ## Installation

@@ -2,6 +2,7 @@
 sidebar_label: WooCommerce Plugin
 title: Chargily ePay with WooCommerce
 sidebar_position: 5
+slug: epay-woocomerce
 ---
 
 ## Installation

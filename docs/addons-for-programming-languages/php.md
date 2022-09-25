@@ -2,6 +2,7 @@
 title: Chargily ePay with PHP
 sidebar_label: PHP
 sidebar_position: 1
+slug: /epay-php
 ---
 
 ## Requirements

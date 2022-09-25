@@ -27,6 +27,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/Chargily/chargily-dev-docs',
@@ -106,23 +107,23 @@ const config = {
             items: [
               {
                 label: 'Intro',
-                to: '/docs/intro',
+                to: '/intro',
               },
               {
                 label: 'API',
-                to: '/docs/chargily-epay-api',
+                to: '/epay-api',
               },
               {
                 label: 'Addons for programming languages',
-                to: '/docs/addons-for-programming-languages',
+                to: '/category/addons-for-programming-languages',
               },
               {
                 label: 'Addons for frameworks',
-                to: '/docs/addons-for-frameworks',
+                to: '/category/addons-for-frameworks',
               },
               {
                 label: 'WooCommerce Plugin',
-                to: '/docs/woocommerce',
+                to: '/epay-woocomerce',
               },
             ],
           },

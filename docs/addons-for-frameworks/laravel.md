@@ -2,6 +2,7 @@
 title: Chargily ePay with Laravel
 sidebar_label: Laravel
 sidebar_position: 1
+slug: /epay-laravel
 ---
 
 <p align="center"><img src="https://i.imgur.com/j3fZ4yK.png"/></p>

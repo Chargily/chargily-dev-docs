@@ -2,6 +2,7 @@
 title: Chargily ePay with Symphony
 sidebar_label: Symphony
 sidebar_position: 3
+slug: /epay-symfony
 ---
 
 ## Installation

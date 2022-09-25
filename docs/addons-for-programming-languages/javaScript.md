@@ -2,12 +2,12 @@
 title: Chargily ePay with JavaScript
 sidebar_label: JavaScript
 sidebar_position: 2
+slug: /epay-js
 ---
 
 # Requirements
 1. Node 8, 10 or higher.
 2. NPM
-3. API Key/Secret
 
 # Installation
 1. Via npm (Recomended)

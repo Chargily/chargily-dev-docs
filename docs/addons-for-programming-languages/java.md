@@ -2,6 +2,7 @@
 title: Chargily ePay with Java
 sidebar_label: Java
 sidebar_position: 4
+slug: /epay-java
 ---
 
 <img src="https://raw.githubusercontent.com/rainxh11/chargily-epay-java/master/assets/chargily_java.svg" heigh="300"/>

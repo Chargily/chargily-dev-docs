@@ -2,6 +2,7 @@
 title: Chargily ePay with Kotlin
 sidebar_label: Kotlin
 sidebar_position: 5
+slug: /epay-kotlin
 ---
 
 [Kotlin Library for Chargily ePay Gateway](https://github.com/Chargily/chargily-epay-kotlin "Kotlin Library for Chargily ePay Gateway")

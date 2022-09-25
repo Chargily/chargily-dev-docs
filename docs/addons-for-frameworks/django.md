@@ -2,6 +2,7 @@
 title: Chargily ePay with Django
 sidebar_label: Django
 sidebar_position: 2
+slug: /epay-django
 ---
 
 ## Installation
