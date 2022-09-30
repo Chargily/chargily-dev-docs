@@ -6,4 +6,4 @@ slug: /epay-next-js
 ---
 
 ** Coming Soon **
-You can use the [React package](./react "React package").
+You can use the [React package](./epay-react-js "React package").

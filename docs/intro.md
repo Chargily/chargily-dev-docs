@@ -21,4 +21,4 @@ Visite [this link](https://epay.chargily.com.dz/secure/admin/epay-api "this link
 After creating a new application , you will get `API KEY` and `SECRET KEY`.
 
 ## What next?
-We have add-ons for a variety of programming languages and frameworks, you can choose the one that suits you from the side bar but we encourage you to first read about [how to work directly with our API](./chargily-epay-api "how to work directly with our API") to understand what's happening under the hood, than you can choose the integration method that fit your programming language and framework from the sidebar.
+We have add-ons for a variety of programming languages and frameworks, you can choose the one that suits you from the side bar but we encourage you to first read about [how to work directly with our API](/epay-api "how to work directly with our API") to understand what's happening under the hood, than you can choose the integration method that fit your programming language and framework from the sidebar.
