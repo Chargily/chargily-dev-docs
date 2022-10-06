@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchargily_epay_docs=self.webpackChunkchargily_epay_docs||[]).push([[195],{2841:(e,t,c)=>{c.r(t),c.d(t,{default:()=>l});var a=c(7294),r=c(5742);function l(){return a.createElement(r.Z,null,a.createElement("meta",{"http-equiv":"refresh",content:"0;URL='https://chargily.com/#dev'"}))}}}]);
