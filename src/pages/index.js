@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      description="Chargily ePay documentation">
+      description="Chargily Developers documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
