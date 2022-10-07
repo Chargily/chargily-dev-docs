@@ -154,7 +154,7 @@ html[data-theme='dark'] .header-telegram-link:before {
   height: 100%;
   background-image: url("/static/img/home_hero.jpg");
   background-color: #680488;
-  background-position: left;
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   filter: blur(7px);
