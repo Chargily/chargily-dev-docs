@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             id="homePageCTA"
             className="button button--secondary button--lg"
-            to="/intro">
+            to="/docs/intro">
             Read The Docs 📚
           </Link>
         </div>
