@@ -50,7 +50,7 @@ const config = {
       navbar: {
         hideOnScroll: true,
         logo: {
-          alt: 'Chargily ePay logo',
+          alt: 'Chargily logo',
           src: 'img/logo.svg',
           srcDark: 'img/logo_dark.svg',
           href: '/docs/',
