@@ -53,7 +53,7 @@ const config = {
           alt: 'Chargily ePay logo',
           src: 'img/logo.svg',
           srcDark: 'img/logo_dark.svg',
-          href: '/',
+          href: '/docs/',
           target: '_self',
         },
         items: [
