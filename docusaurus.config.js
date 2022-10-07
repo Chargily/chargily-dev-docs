@@ -107,23 +107,23 @@ const config = {
             items: [
               {
                 label: 'Intro',
-                to: '/intro',
+                to: '/docs/intro',
               },
               {
                 label: 'API',
-                to: '/epay-api',
+                to: '/docs/epay-api',
               },
               {
                 label: 'Addons for programming languages',
-                to: '/category/addons-for-programming-languages',
+                to: '/docs/category/addons-for-programming-languages',
               },
               {
                 label: 'Addons for frameworks',
-                to: '/category/addons-for-frameworks',
+                to: '/docs/category/addons-for-frameworks',
               },
               {
                 label: 'WooCommerce Plugin',
-                to: '/epay-woocomerce',
+                to: '/docs/epay-woocomerce',
               },
             ],
           },
