@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Intro
 ---
 
 # Chargily ePay Docs Intro
