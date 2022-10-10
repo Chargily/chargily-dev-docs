@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Chargily Developers Docs',
+  title: 'Chargily for Developers',
   tagline: 'We are happy to guide you to integrate Chargily ePay easily into your apps.',
   url: 'https://dev.chargily.com/',
   baseUrl: '/',
