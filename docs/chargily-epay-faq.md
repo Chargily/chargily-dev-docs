@@ -28,7 +28,7 @@ The short answer is **YES!**
 The long answer is we do have addons for every famous programming language or framework, please checkout the sidebar on the right to have access to the documentions of our integrations methods.
 
 ### How much does the addons cost?
-They are all FREE and Open Sourced.
+They are all FREE and Open Sourced.  
 Check out our Github: https://github.com/Chargily.
 
 ### How much time does it take to process a withdrawal request?
