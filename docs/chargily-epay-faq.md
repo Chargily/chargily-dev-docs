@@ -17,7 +17,7 @@ Let's get started!
 
 ### How much are the fees we take?
 **2.5%**, including interbank fees, **payable by the final client**.  
-For more details, have a looka at **[the full pricing table](https://epay.chargily.com/pricing "the full pricing table")**.
+For more details, have a look at **[the full pricing table](https://epay.chargily.com/pricing "the full pricing table")**.
 
 ### How much time does it take to get access to the API?
 You will get your API KEY and SECRET KEY **just after you finish signing up**, please **[visit this page](/docs/intro "visit this page")** for more info.
