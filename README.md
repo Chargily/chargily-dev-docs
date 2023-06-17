@@ -1,6 +1,6 @@
 # Chargily ePay Docs
 
-This is the script that powers the official documentation of [Chargily ePay](https://epay.chargily.com.dz/).
+This is the script that powers the official documentation of [Chargily Pay](https://pay.chargily.com/).
 
 ## Local Development
 

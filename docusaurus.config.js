@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Chargily for Developers',
-  tagline: 'We are happy to guide you to integrate Chargily ePay easily into your apps.',
+  tagline: 'We are happy to guide you to integrate Chargily Pay easily into your apps.',
   url: 'https://dev.chargily.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -65,8 +65,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://epay.chargily.com.dz/',
-            label: 'Chargily ePay',
+            href: 'http://pay.chargily.com/',
+            label: 'Chargily Pay',
             position: 'left',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
@@ -111,7 +111,7 @@ const config = {
               },
               {
                 label: 'API',
-                to: '/docs/epay-api',
+                to: '/docs/pay-api',
               },
               {
                 label: 'Addons for programming languages',
@@ -157,15 +157,15 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https://epay.chargily.com.dz',
+                href: 'http://pay.chargily.com/',
               },
               {
                 label: 'Sign Up',
-                href: 'https://epay.chargily.com.dz/register',
+                href: 'https://pay.chargily.com/register',
               },
               {
                 label: 'Login',
-                href: 'https://epay.chargily.com.dz/login',
+                href: 'https://pay.chargily.com/login',
               },
             ],
           },

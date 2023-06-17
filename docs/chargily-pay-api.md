@@ -1,9 +1,11 @@
 ---
+sidebar_label: Chargily Pay API
+title: Chargily Pay API
 sidebar_position: 2
-slug: /epay-api
+slug: /pay-api
 ---
 
-# Chargily ePay API
+# Chargily Pay API
 
 Here is how you can work with our API.
 
