@@ -34,16 +34,16 @@ To overcome this limitation, the Chargily Pay testing tool was developed. This t
 To utilize the Chargily Pay Testing Tool, follow these steps:
 
 1. Configure Your Webhook Endpoint:
-   Set up a webhook endpoint in your application that can receive and process incoming webhook notifications (You probably already had done that).
+   Set up a webhook endpoint in your application that can receive and process incoming webhook notifications (You probably already have done that).
 
 2. Obtain the Webhook URL:
-   Retrieve the URL of your webhook endpoint. This URL is the address where the Chargily Pay will send the simulated webhook.
+   Retrieve the URL of your webhook endpoint. This URL is the address where Chargily Pay will send the webhooks.
 
 3. Access the Chargily Pay Testing Tool:
-   Open the Chargily Pay Testing Tool. It provides a user-friendly interface where you can input the webhook URL, the ID of an invoice, your Chargily Pay Secret and the status of the paiment (paid or failed).
+   Open the Chargily Pay Testing Tool. It provides a user-friendly interface where you can input the webhook URL, the ID of an invoice, your Chargily Pay Secret, and the status of the payment (paid or failed).
 
 4. Emulate a Successful or a Failed Payment:
-   Within the Tool, initiate the simulation of a successful of failed payment by clicking on the Send button to send a POST request to your webhook endpoint.
+   Within the Tool, initiate the simulation of a successful or failed payment by clicking on the Send button to send a POST request to your webhook endpoint.
 
 5. Verify Webhook Handling:
    Once the POST request is sent, observe how your webhook handler processes the simulated webhook. Ensure that your application correctly handles the event and updates the relevant payment status.
